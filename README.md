@@ -164,12 +164,10 @@ Models were evaluated using:
 - RMSE (Root Mean Squared Error)
 - R² Score
 
-
 | Model | MAE (K) | RMSE (K) | R² |
 |---|---:|---:|---:|
-| Linear Regression | 27.32 | 35.01 | 0.15 |
-| Random Forest | 24.62 | 31.70 | 0.30 |
-| Tuned Random Forest | 25.63 | 31.89 | 0.29 |
+| Random Forest | 24.42 | 31.54 | 0.31 |
+| Tuned Random Forest | 25.46 | 31.68 | 0.30 |
 
 
 The default Random Forest model achieved the best performance on the test set.
